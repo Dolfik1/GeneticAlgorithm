@@ -1,0 +1,13 @@
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.exe.config
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.exe
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Release\GeneticAlgorithm.pdb
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\MainWindow.baml
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\MainWindow.g.cs
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\App.g.cs
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm_MarkupCompile.cache
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.g.resources
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.csproj.GenerateResource.Cache
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.exe
+C:\Users\Narthrum\YandexDisk\Sync\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Release\GeneticAlgorithm.pdb
